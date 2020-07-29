@@ -14,4 +14,3 @@ The best model that was fit to the data was an xgboost model. Models were fit us
 
 Additional improvements could be made in the areas of feature selection, model tuning, and avoiding leakage better.
 
-If there are any questions or comments about the analysis and work done, feel free to email me at matt4byu@gmail.com
